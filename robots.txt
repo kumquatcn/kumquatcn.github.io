@@ -1,0 +1,7 @@
+#
+# Other good bots
+#
+User-agent: *
+Allow: /
+
+Sitemap: https://kumquatcn.github.io/sitemap.xml
